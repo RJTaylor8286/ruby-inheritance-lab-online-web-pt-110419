@@ -1,4 +1,5 @@
 class Student 
+  
 
 def learn 
   learn < KNOWLEDGE
