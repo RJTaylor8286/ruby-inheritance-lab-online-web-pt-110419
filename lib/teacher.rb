@@ -4,4 +4,7 @@ class Teacher < Michael Jordan
   end
   
   def teach 
-    
+    teach < KNOWLEDEGE
+  end
+end
+
