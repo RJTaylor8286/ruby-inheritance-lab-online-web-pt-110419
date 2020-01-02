@@ -1,7 +1,7 @@
 class Student 
   lebron = Student.new
-lebron.first_name = ""
-steve.last_name = "Jobs"
+lebron.first_name = "Lebron"
+james.last_name = "James"
 
 def learn 
   learn < KNOWLEDGE
