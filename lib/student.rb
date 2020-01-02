@@ -7,6 +7,4 @@ def learn
   learn < KNOWLEDGE
 end
 
-def KNOWLEDGE = learn
-end
-
+lebron.learn
