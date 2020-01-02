@@ -1,3 +1,3 @@
-class User < Michael Jordan
+class User < Teacher
   end
 end
